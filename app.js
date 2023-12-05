@@ -8,6 +8,6 @@ window.addEventListener('keypress', (ky) => {
     }
     if( Key == "E" || Key == 'e'){
         console.log('REDIRECTING TO EASEBOT..');
-        window.location.href = "https://easebot.netlify.app/"
+        window.location.href = "https://www.easebot.netlify.app/"
     }
 })
